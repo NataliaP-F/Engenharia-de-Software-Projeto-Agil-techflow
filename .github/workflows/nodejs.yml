@@ -12,6 +12,7 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
+
     - name: Instalar Node.js
       uses: actions/setup-node@v2
       with:
@@ -21,5 +22,4 @@ jobs:
       run: npm install
 
     - name: Rodar os testes
-      run: npm test
- 
+      run: npx jest
