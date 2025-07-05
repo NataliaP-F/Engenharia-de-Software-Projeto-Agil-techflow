@@ -3,8 +3,9 @@
 # Objetivo do Projeto:
 Desenvolver um sistema de gerenciamento de tarefas para uma startup de logística, permitindo acompanhar o fluxo de trabalho em tempo real, priorizar tarefas críticas e monitorar o desempenho da equipe.
 
-# Escopo:
-O sistema será composto inicialmente por um CRUD de tarefas, com a possibilidade de adicionar recursos como login de usuários e controle de prioridade.
+# Mudança de Escopo
+Após o desenvolvimento inicial, o cliente solicitou a inclusão de um campo de prioridade nas tarefas.
+Essa mudança foi incorporada ao projeto, demonstrando a capacidade de adaptação às necessidades do cliente e uso de práticas ágeis.
 
 # Metodologia Adotada:
 Utilizamos as práticas de Engenharia de Software com foco em **metodologias ágeis**, combinando **Kanban** e elementos do **SCRUM**.
