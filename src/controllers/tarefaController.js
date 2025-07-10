@@ -1,3 +1,4 @@
+//Lógica do CRUD
 let tarefas = [];
 let contador = [];
 
